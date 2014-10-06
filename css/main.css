@@ -1,0 +1,16 @@
+.clear{
+	clear: both;
+}
+#image{
+    background: url("../images/img0.jpg");
+    width: 256px;
+    height: 256px;
+}
+#previous{
+	float: left;
+	line-height: 50%;
+}
+#next{
+	float: right;
+	line-height: 50%;
+}
